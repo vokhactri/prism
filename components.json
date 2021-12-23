@@ -1493,6 +1493,10 @@
 		"zig": {
 			"title": "Zig",
 			"owner": "RunDevelopment"
+		},
+		"pcr": {
+			"title": "Polaris Custom Rule",
+			"owner": "Tri Khac Vo"
 		}
 	},
 	"plugins": {

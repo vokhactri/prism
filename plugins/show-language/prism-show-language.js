@@ -260,7 +260,8 @@
 		"xquery": "XQuery",
 		"yaml": "YAML",
 		"yml": "YAML",
-		"yang": "YANG"
+		"yang": "YANG",
+		"pcr": "Polaris Custom Rule"
 	}/*]*/;
 
 	/* eslint-enable */
